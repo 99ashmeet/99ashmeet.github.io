@@ -1,0 +1,54 @@
+
+body,html{
+	height: 100%;
+	width: 100%;
+}
+
+.button{
+	margin-top: 850px;
+	display: flex;
+	justify-content: center; 
+}
+
+.btn-primary{	
+	font-size: 70px;
+	border-radius: 50px;
+	text-align: center;
+	padding: 20px 30px;
+	border-width: 5px;
+	background: #ff6666;
+	border-color: #ff3333;
+
+}
+
+.btn-primary:hover{
+	transition: 2s;
+	transform: scale(1.2);
+	background:  #ff3333;
+	border-color: #ff3333;	
+}
+
+.heading h2{
+	text-align: center;
+	margin-top: 700px;
+	margin-bottom: 50px;
+	font-style: bold;
+	color: #ff8080;
+	font-size: 150px;
+	flex-wrap: wrap;
+
+}
+
+.heading:hover{
+	transition: 2s;
+	transform: scale(1.2);
+}
+
+
+body{
+	background-image: url("http://images.unsplash.com/reserve/6HJtLkJSDqjqlE2NipEu_macbook.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9");
+	background-position:center;
+	background-size: cover ;
+	overflow: hidden;
+}
+
