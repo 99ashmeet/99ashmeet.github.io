@@ -16,16 +16,16 @@ body,html{
 	text-align: center;
 	padding: 5px 10px;
 	border-width: 5px;
-	background: #ff6666;
-	border-color: #ff3333;
+	background: #ff3333 ;
+	border-color: #ff3333 ;
 
 }
 
 .btn-primary:hover{
 	transition: 2s;
 	transform: scale(1.2);
-	background:  #ff3333;
-	border-color: #ff3333;	
+	background:  green ;
+	border-color: green ;	
 }
 
 .heading h2{
