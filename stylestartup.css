@@ -22,25 +22,26 @@ body,html{
 }
 
 .btn-primary:hover{
-	transition: 2s;
+	transition: 1s;
 	transform: scale(1.2);
-	background:  #ff3333;
-	border-color: #ff3333;	
+	background:  green ;
+	border-color: green ;	
 }
 
 .heading h2{
 	text-align: center;
 	margin-top: 170px;
 	margin-bottom: 50px;
-	font-style: bold;
+	/*font-style: bold;*/
 	color: #ff8080;
+	font-family: Times New Roman  ;
 	font-size: 50px;
 	flex-wrap: wrap;
 
 }
 
 .heading:hover{
-	transition: 2s;
+	transition: 1s;
 	transform: scale(1.2);
 }
 
